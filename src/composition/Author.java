@@ -42,6 +42,6 @@ public class Author {
   }
   public void NewFunctionGithub()
   {
-      System.out.println("Iam Abdul Jalil");
+      System.out.println("Iam Abdul Jalil Ayubi");
   }
 }          
