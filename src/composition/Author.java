@@ -40,4 +40,8 @@ public class Author {
   {
       return"Author[Name=>"+Authorname+" Email=>"+Authoremail+"Gender=>"+Authorgender+"]";
   }
+  public void NewFunctionGithub()
+  {
+      System.out.println("Iam Abdul Jalil");
+  }
 }          
